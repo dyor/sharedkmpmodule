@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "sharedkmpmodule"
 include(":app")
- 
+include(":shared")
